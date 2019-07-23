@@ -1,4 +1,4 @@
 # test stuff with git
 
 
-###this is changed locally before pulling to create mismath
+#the conflict is merged by writing a new line and deleting the others!
